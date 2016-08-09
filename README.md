@@ -9,4 +9,4 @@ Following the common training setup, images are cropped to 224*224, and batch si
 
 Note: The model I applied is the original Deep Residual Network from Kaiming He etc.'s CVPR2016 BEST paper "Deep residual learning for image recognition"(http://arxiv.org/abs/1512.03385). They further improve "Deep Residual Network" with pre-activation Residual Unit in paper "Identity Mappings in Deep Residual Networks"(http://arxiv.org/abs/1603.05027). 
 
-Note: The training data is picked rather arbitrarily and paras are not carefully tuned.
+Note: The training data is picked rather arbitrarily and params are not carefully tuned.
